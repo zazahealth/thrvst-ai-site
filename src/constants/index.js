@@ -40,6 +40,8 @@ import {
   awsLogo,
   pythonLogo,
   reactLogo,
+  meet_team,
+  cover_pic
 } from "../assets";
 
 export const navigation = [
@@ -56,12 +58,12 @@ export const navigation = [
   {
     id: "2",
     title: "Our Story",
-    url: "#our-story",
+    url: "#ourstory",
   },
   {
     id: "3",
     title: "Are you ready to THRVST?",
-    url: "#are-you-ready-to-join-thrvst",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSf1bjOG7oqsA4uxE2oiG9CoN6xTpl32XIUWkFsobUi5F85M7A/viewform?usp=header",
   },
   {
     id: "4",
@@ -72,7 +74,7 @@ export const navigation = [
   {
     id: "5",
     title: "Join Waitlist",
-    url: "#join-waitlist",
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSdw74J7t-5FPPQWI4skcRahkMBr-JqUaqqFmV6AhlB8svFQkg/viewform?usp=header",
     onlyMobile: true,
   },
 ];
@@ -215,7 +217,7 @@ export const demos = [
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
     light: true,
-    youtubeUrl: "https://youtu.be/qD8Ecg7tzSE",
+    comingSoon: true,
   },
   {
     id: "2",
@@ -224,7 +226,7 @@ export const demos = [
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
-    youtubeUrl: "https://youtu.be/qD8Ecg7tzSE",
+    comingSoon: true,
   },
 ];
 

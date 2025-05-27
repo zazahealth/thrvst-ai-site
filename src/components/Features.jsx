@@ -27,7 +27,12 @@ const Features = () => {
             ))}
           </ul>
 
-          <Button>Try it now</Button>
+          <Button onClick={() =>
+     		window.open("https://docs.google.com/forms/d/e/1FAIpQLSdw74J7t-5FPPQWI4skcRahkMBr-JqUaqqFmV6AhlB8svFQkg/viewform?usp=header", "_blank")
+  		}
+  		className="btn btn-primary">
+		Try it now
+	  </Button>
         </div>
 
         <div className="lg:ml-auto xl:w-[38rem] mt-4">

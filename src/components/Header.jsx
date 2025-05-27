@@ -69,7 +69,7 @@ const Header = () => {
         </nav>
 
         <a
-          href="#contact-us"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSdw74J7t-5FPPQWI4skcRahkMBr-JqUaqqFmV6AhlB8svFQkg/viewform?usp=header"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
           Contact Us

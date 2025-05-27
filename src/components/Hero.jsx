@@ -38,7 +38,7 @@ const Hero = () => {
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
             Unleash the power of AI-enhanced chiropractic learning with THRVST.
           </p>
-          <Button href="#join-the-waitlist" white>
+          <Button href="https://docs.google.com/forms/d/e/1FAIpQLSdw74J7t-5FPPQWI4skcRahkMBr-JqUaqqFmV6AhlB8svFQkg/viewform?usp=header" white>
             Get started
           </Button>
         </div>
